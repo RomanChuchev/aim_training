@@ -1,1 +1,1 @@
-# Сircle_game
+# Catch circle for aim training
